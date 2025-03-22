@@ -1,0 +1,23 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Machine Learning
+xgboost
+mlflow
+
+# API Deployment
+fastapi
+uvicorn
+
+# Dashboard & Visualization
+streamlit
+
+# Azure ML SDK (for deployment)
+azureml-sdk
+
+# Additional Utilities
+pyyaml
